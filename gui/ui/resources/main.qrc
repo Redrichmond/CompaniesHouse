@@ -1,0 +1,157 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>ico/32x32/reset.png</file>
+    <file>ico/32x32/Play.png</file>
+    <file>ico/32x32/_-address-book- (Copiar).png</file>
+    <file>ico/32x32/_-bag- (Copiar).png</file>
+    <file>ico/32x32/_book- (Copiar).png</file>
+    <file>ico/32x32/_-box-full- (Copiar).png</file>
+    <file>ico/32x32/_-box-in- (Copiar).png</file>
+    <file>ico/32x32/_bubble- (Copiar).png</file>
+    <file>ico/32x32/_bubbles- (Copiar).png</file>
+    <file>ico/32x32/_calendar- (Copiar).png</file>
+    <file>ico/32x32/_calendar-alt- (Copiar).png</file>
+    <file>ico/32x32/_-calendar-clock- (Copiar).png</file>
+    <file>ico/32x32/_-camera- (Copiar).png</file>
+    <file>ico/32x32/_camera-alt- (Copiar).png</file>
+    <file>ico/32x32/_-cloud-down- (Copiar).png</file>
+    <file>ico/32x32/_-cog- (Copiar).png</file>
+    <file>ico/32x32/_-cogs- (Copiar).png</file>
+    <file>ico/32x32/_-compas- (Copiar).png</file>
+    <file>ico/32x32/_-component- (Copiar).png</file>
+    <file>ico/32x32/_-computer- (Copiar).png</file>
+    <file>ico/32x32/_-cone- (Copiar).png</file>
+    <file>ico/32x32/_database- (Copiar).png</file>
+    <file>ico/32x32/_-database- (Copiar).png</file>
+    <file>ico/32x32/_enveloppe-alt- (Copiar).png</file>
+    <file>ico/32x32/_-enveloppe-letter- (Copiar).png</file>
+    <file>ico/32x32/_file-excel- (Copiar).png</file>
+    <file>ico/32x32/_file-excel-alt- (Copiar).png</file>
+    <file>ico/32x32/_file-pdf- (Copiar).png</file>
+    <file>ico/32x32/_file-powerpoint- (Copiar).png</file>
+    <file>ico/32x32/_-file-word- (Copiar).png</file>
+    <file>ico/32x32/_-filter- (Copiar).png</file>
+    <file>ico/32x32/_floppy- (Copiar).png</file>
+    <file>ico/32x32/_-folder- (Copiar).png</file>
+    <file>ico/32x32/_-folder-document- (Copiar).png</file>
+    <file>ico/32x32/_-folder-picture- (Copiar).png</file>
+    <file>ico/32x32/_-folder-video- (Copiar).png</file>
+    <file>ico/32x32/_-gift- (Copiar).png</file>
+    <file>ico/32x32/_globe- (Copiar).png</file>
+    <file>ico/32x32/_heart- (Copiar).png</file>
+    <file>ico/32x32/_-heart- (Copiar).png</file>
+    <file>ico/32x32/_-house- (Copiar).png</file>
+    <file>ico/32x32/_image- (Copiar).png</file>
+    <file>ico/32x32/_-institution- (Copiar).png</file>
+    <file>ico/32x32/_-life-buoy- (Copiar).png</file>
+    <file>ico/32x32/_-light-bulb- (Copiar).png</file>
+    <file>ico/32x32/_-lock- (Copiar).png</file>
+    <file>ico/32x32/_-lock-open- (Copiar).png</file>
+    <file>ico/32x32/_map- (Copiar).png</file>
+    <file>ico/32x32/_-map- (Copiar).png</file>
+    <file>ico/32x32/_map-() (Copiar).png</file>
+    <file>ico/32x32/_map-marker- (Copiar).png</file>
+    <file>ico/32x32/_-map-marker- (Copiar).png</file>
+    <file>ico/32x32/_-map-marker-() (Copiar).png</file>
+    <file>ico/32x32/_movie- (Copiar).png</file>
+    <file>ico/32x32/_paperclip- (Copiar).png</file>
+    <file>ico/32x32/_-paperclip- (Copiar).png</file>
+    <file>ico/32x32/_pencil- (Copiar).png</file>
+    <file>ico/32x32/_-pin- (Copiar).png</file>
+    <file>ico/32x32/_-profile-group- (Copiar).png</file>
+    <file>ico/32x32/_search- (Copiar).png</file>
+    <file>ico/32x32/_-shield-warning- (Copiar).png</file>
+    <file>ico/32x32/_-sign-add- (Copiar).png</file>
+    <file>ico/32x32/_-sign-ban- (Copiar).png</file>
+    <file>ico/32x32/_-sign-check- (Copiar).png</file>
+    <file>ico/32x32/_-sign-error- (Copiar).png</file>
+    <file>ico/32x32/_-sign-info- (Copiar).png</file>
+    <file>ico/32x32/_star- (Copiar).png</file>
+    <file>ico/32x32/_-sticky-note- (Copiar).png</file>
+    <file>ico/32x32/_-tablet- (Copiar).png</file>
+    <file>ico/32x32/_-tachometer- (Copiar).png</file>
+    <file>ico/32x32/_-trashcan- (Copiar).png</file>
+    <file>ico/32x32/_user- (Copiar).png</file>
+    <file>ico/32x32/_user-alt- (Copiar).png</file>
+    <file>ico/32x32/_user-group- (Copiar).png</file>
+    <file>ico/32x32/_user-id- (Copiar).png</file>
+    <file>ico/32x32/_-webcam- (Copiar).png</file>
+    <file>ico/32x32/_-window-layout- (Copiar).png</file>
+    <file>ico/32x32/_-window-system- (Copiar).png</file>
+    <file>ico/32x32/_-wrench- (Copiar).png</file>
+    <file>ico/32x32/_-wrench-screwdriver- (Copiar).png</file>
+    <file>ico/32x32/1419060378_file-zip-alt-128 (Copiar).png</file>
+    <file>ico/32x32/1419060667_file-zip-alt2-128 (Copiar).png</file>
+    <file>ico/32x32/Caja.png</file>
+    <file>ico/32x32/calculatorx.png</file>
+    <file>ico/32x32/cheque.png</file>
+    <file>ico/32x32/Cobros (Copiar).png</file>
+    <file>ico/32x32/Cobros.png</file>
+    <file>ico/32x32/Copiar.png</file>
+    <file>ico/32x32/entradasalida.png</file>
+    <file>ico/32x32/EntradaYSalida (Copiar).png</file>
+    <file>ico/32x32/Icono (Copiar).jpg</file>
+    <file>ico/32x32/ImportarTarifas (Copiar).png</file>
+    <file>ico/32x32/industry.png</file>
+    <file>ico/32x32/inforempresa.png</file>
+    <file>ico/32x32/Notax.png</file>
+    <file>ico/32x32/Pagos.png</file>
+    <file>ico/32x32/Presux.png</file>
+    <file>ico/32x32/Printer.png</file>
+    <file>ico/32x32/Tarifas (Copiar).png</file>
+    <file>ico/32x32/taskx.png</file>
+    <file>ico/32x32/Transporte (Copiar).png</file>
+    <file>ico/32x32/Trazabilidad (Copiar).png</file>
+    <file>ico/32x32/Trazabilidadx.png</file>
+  </qresource>
+  <qresource prefix="iconosP">
+    <file>ico/20x20/1419060413_file-excel-alt-128 (Copiar).png</file>
+    <file>ico/20x20/Abono20x20.png</file>
+    <file>ico/20x20/Almacenes (Copiar).png</file>
+    <file>ico/20x20/bank (Copiar).png</file>
+    <file>ico/20x20/Borrar.png</file>
+    <file>ico/20x20/Caja20x20.png</file>
+    <file>ico/20x20/calculator20x20.png</file>
+    <file>ico/20x20/Calendar (Copiar).png</file>
+    <file>ico/20x20/Calendar20x20.png</file>
+    <file>ico/20x20/Categorias (Copiar).png</file>
+    <file>ico/20x20/Cheque.png</file>
+    <file>ico/20x20/cheque20x20.png</file>
+    <file>ico/20x20/ClienteConsumo 20x20.png</file>
+    <file>ico/20x20/Clientes.gif</file>
+    <file>ico/20x20/Cobros20x20.png</file>
+    <file>ico/20x20/Copiar.png</file>
+    <file>ico/20x20/Correo20x20.png</file>
+    <file>ico/20x20/Dollar (Copiar).png</file>
+    <file>ico/20x20/Ensamblado (Copiar).png</file>
+    <file>ico/20x20/Fabricante20x20.png</file>
+    <file>ico/20x20/Factura20x20.png</file>
+    <file>ico/20x20/Inventory20x20.png</file>
+    <file>ico/20x20/Modificar.png</file>
+    <file>ico/20x20/NotaDeEntrega20x20.png</file>
+    <file>ico/20x20/Nuevo.png</file>
+    <file>ico/20x20/Nuevo20x20.png</file>
+    <file>ico/20x20/Personal (Copiar).png</file>
+    <file>ico/20x20/Regeneracion (Copiar).png</file>
+    <file>ico/20x20/Reloj (Copiar).png</file>
+    <file>ico/20x20/Representante.png</file>
+    <file>ico/20x20/SalidaCliente20x20.png</file>
+    <file>ico/20x20/Salidas (Copiar).png</file>
+    <file>ico/20x20/Secciones (Copiar).png</file>
+    <file>ico/20x20/selection.png</file>
+    <file>ico/20x20/tag.png</file>
+    <file>ico/20x20/task20x20.png</file>
+    <file>ico/20x20/Tipo de cliente.png</file>
+    <file>ico/20x20/Transporte (Copiar).png</file>
+    <file>ico/20x20/traspaso (Copiar).png</file>
+    <file>ico/20x20/Trazabilidad20x20.png</file>
+    <file>ico/20x20/Unidades de Medida (Copiar).png</file>
+    <file>ico/20x20/Volcado (Copiar).png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/circle.gif</file>
+    <file>img/20070122160818-zeus.gif</file>
+    <file>img/blue.jpg</file>
+    <file>img/maxie-zeus.jpg</file>
+  </qresource>
+</RCC>
